@@ -32,7 +32,7 @@ pip3 install selenium webdriver-manager colorama --break-system-packages
 
 #### Step 1 – First Run (create profile)  
 ```bash
-python3 whatsapp_sender.py --numbers 966XXXXXXXXX --message "Hello"
+python3 WhatsUPTurbo.py.py --numbers 966XXXXXXXXX --message "Hello"
 ```
 - Firefox opens with profile `whatsup_profile`.  
 - Scan the QR code once.  
@@ -40,12 +40,12 @@ python3 whatsapp_sender.py --numbers 966XXXXXXXXX --message "Hello"
 
 #### Step 2 – Send to a list of numbers  
 ```bash
-python3 whatsapp_sender.py --numbers-file numbers.txt --message "Promo starts today"
+python3 WhatsUPTurbo.py.py --numbers-file numbers.txt --message "Promo starts today"
 ```
 
 #### Step 3 – Send media with caption  
 ```bash
-python3 whatsapp_sender.py --numbers-file numbers.txt --file Video.mp4 --caption @caption.txt
+python3 WhatsUPTurbo.py.py --numbers-file numbers.txt --file Video.mp4 --caption @caption.txt
 ```
 
 
