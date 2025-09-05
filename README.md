@@ -1,4 +1,4 @@
-# WhatsUPTurbo 🚀  
+# WhatsUPTurbo 
 **Run WhatsApp Web campaigns directly from your device. simple, fast, and free.**
 
 <br>
